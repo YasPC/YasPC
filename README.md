@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Yasmin Porto Costa
+
+Sou Engenheira da Computação, moro em Santa Catarina e atualmente estou fora do mercado de trabalho. 
+Estudo Python, Java e Sql.
+Procuro oportunidades na área de dados e desenvolvimento.
+
 
 <!--
 **YasPC/YasPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
