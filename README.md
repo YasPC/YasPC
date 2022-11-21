@@ -4,7 +4,7 @@
 :octocat: Sou Engenheira da Computação, moro em Santa Catarina e atualmente estou fora do mercado de trabalho. 
 No momento estudando Python, Java e Sql.
 
-:star: Procuro oportunidades na área de dados e desenvolvimento.
+:star: Procuro oportunidades na área de dados, desenvolvimento e gestão.
 
 ## Ferramentas e Tecnologias
 
