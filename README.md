@@ -2,9 +2,9 @@
 ## My name is Yasmin Porto Costa
 
 :octocat: Sou Engenheira da Computação, moro em Santa Catarina e atualmente estou fora do mercado de trabalho. 
-No momento estudando Python, Java, Sql e QA.
+No momento estudando Python, Java, Sql, QA e Metodologias Ágeis.
 
-:star: Procuro oportunidades na área de dados, desenvolvimento, QA e gestão.
+:star: Procuro oportunidades na Área de dados, Desenvolvimento, QA e Gestão.
 
 ## Ferramentas e Tecnologias
 
