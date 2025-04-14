@@ -1,10 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Yasmin Porto Costa
 
-:octocat: Sou Engenheira da Computação, moro em Santa Catarina e atualmente estou fora do mercado de trabalho. 
-No momento estudando Python, Java, Sql, QA e Metodologias Ágeis.
+:octocat: Sou Engenheira da Computação, moro em Santa Catarina e atualmente sou Engenheira de Software. 
+No momento estudando Kotlin, QA e Metodologias Ágeis.
 
-:star: Procuro oportunidades na Área de dados, Desenvolvimento, QA e Gestão.
+:star: Sempre me desenvolvendo em QA, Gestão e novas metodologias e tecnologias.
 
 ## Ferramentas e Tecnologias
 
